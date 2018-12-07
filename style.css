@@ -1,0 +1,24 @@
+/* stylesheet */
+.title {
+    font-family:Baskerville, Rockwell, Helvetica;
+    font-size: 50px;
+    color: #6685b7;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.subtitle {
+    font-family:Baskerville, Rockwell, Helvetica;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.links {     
+    font-family:Baskerville, Rockwell, Helvetica;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a {
+    color: black;
+}    
