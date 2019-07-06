@@ -1,4 +1,9 @@
 /* stylesheet */
+.picture {
+    .responsive {
+        width: 100%;
+        height: auto;
+}   
 .title {
     font-family:Baskerville, Rockwell, Helvetica;
     font-size: 50px;
