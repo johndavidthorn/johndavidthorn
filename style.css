@@ -5,7 +5,7 @@
     height: auto;
 }   
 .title {
-    font-family:Baskerville, Rockwell, Helvetica;
+    font-family:Baskerville
     font-size: 50px;
     color: #6685b7;
     display: flex;
@@ -13,13 +13,13 @@
     align-items: center;  
 }
 .subtitle {
-    font-family:Baskerville, Rockwell, Helvetica;
+    font-family:Baskerville
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .links {     
-    font-family:Baskerville, Rockwell, Helvetica;
+    font-family:Helvetica;
     display: flex;
     justify-content: center;
     align-items: center;
