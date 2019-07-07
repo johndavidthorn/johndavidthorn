@@ -1,9 +1,9 @@
 /* stylesheet */
-body{ background-color: #B44C56;}
-
-.responsive {
-    width: 100%;
-    height: auto;
+.style{
+    body{ background-color: #B44C56;}
+    .responsive {
+        width: 100%;
+        height: auto;
 }   
 .title {
     font-family:Baskerville
@@ -28,3 +28,4 @@ body{ background-color: #B44C56;}
 a {
     color: black;
 }    
+}
