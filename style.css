@@ -1,32 +1,36 @@
 /* stylesheet */
 
 body { 
-    background-color: #B44C56;
-    .responsive {
+    background-color: #B44C56;}
+.responsive {
     width: 100%;
     height: auto;
     }   
-    .title {
+.title {
     font-family:Baskerville
     color: #5B7B36;
     display: flex;
     justify-content: center;
     align-items: center;  
     }   
-    .subtitle {
-        font-family:Baskerville
-        color: #D0C2B7;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+.subtitle {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    font-family:Baskerville
+    color: #D0C2B7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     }
-    .links {     
-        font-family:Helvetica;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+.links {     
+    font-family:Helvetica;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     }
-    a {
-        color: black;
+a {
+    color: black;
     }   
 } 
