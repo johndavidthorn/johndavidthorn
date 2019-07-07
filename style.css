@@ -1,21 +1,21 @@
 /* stylesheet */
-background-color: #B44C56;
+background-color:#B44C56
 .responsive {
     width: 100%;
     height: auto;
 }   
 .title {
     font-family:Baskerville
-    font-size: 50px;
-    color: #6685b7;
+    color: #5B7B36;
     display: flex;
     justify-content: center;
     align-items: center;  
 }
 .subtitle {
     font-family:Baskerville
+    color: #D0C2B7;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
 }
 .links {     
