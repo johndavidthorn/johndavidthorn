@@ -1,9 +1,10 @@
 /* stylesheet */
-.style{
-    body{ background-color: #B44C56;}
-    .responsive {
-        width: 100%;
-        height: auto;
+
+body { background-color: #B44C56; }
+
+.responsive {
+    width: 100%;
+    height: auto;
 }   
 .title {
     font-family:Baskerville
@@ -16,7 +17,7 @@
     font-family:Baskerville
     color: #D0C2B7;
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
 }
 .links {     
@@ -28,4 +29,3 @@
 a {
     color: black;
 }    
-}
